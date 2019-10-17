@@ -1,0 +1,7 @@
+*.log
+mvnw
+mvnw.cmd
+target/
+.settings/
+.mvn/
+.project
